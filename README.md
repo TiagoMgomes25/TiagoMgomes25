@@ -1,16 +1,13 @@
-## Hi there 👋
+# Tiago Marques
+### PCB Design & Electronics
 
-<!--
-**TiagoMgomes25/TiagoMgomes25** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I design printed circuit boards for motor control,
+instrumentation and embedded communication systems.
 
-Here are some ideas to get you started:
+My work includes schematic design and PCB layout
+using Altium Designer.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Projects
+I am currently documenting my latest PCB projects.
+Each project will include its purpose, design decisions,
+hardware files and available test results.
